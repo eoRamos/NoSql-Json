@@ -1,0 +1,57 @@
+{
+  "pagina_inicial": "www.google.com",
+  "idioma_preferido": "Português do Brasil",
+  "localizacao": "São Paulo",
+  "tema": "Clássico",
+  "mostrar_favoritos": true,
+  "zoom": 100
+}
+{
+  "departamentos": [
+    {
+      "id": 1,
+      "nome": "TI"
+    },
+    {
+      "id": 2,
+      "nome": "RH"
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "departamento_id": 1,
+      "cargo": "Desenvolvedor",
+      "salario": 5000
+    },
+    {
+      "id": 2,
+      "nome": "Maria Souza",
+      "departamento_id": 2,
+      "cargo": "Analista",
+      "salario": 4500
+    },
+    {
+      "id": 3,
+      "nome": "Pedro Lima",
+      "departamento_id": 1,
+      "cargo": "Suporte",
+      "salario": 4000
+    }
+  ]
+}
+{
+  "id": 1,
+  "nome": "The Legend of Zelda",
+  "fabricante_id": 1
+}
+{
+  "id": 1,
+  "nome": "Link",
+  "jogo_id": 1
+}
+{
+  "id": 1,
+  "nome": "Nintendo"
+}
